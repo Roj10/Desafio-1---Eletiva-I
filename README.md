@@ -50,4 +50,4 @@ Pode ser agendado no **cron** para execução automática diária, por exemplo:
 - Sistema baseado em Linux
 
 ## 🧾 Autor:
-Administrador de Sistemas — Desafio de Automação de Scripts Bash
+Renan de Oliveira Jussiani
